@@ -1,0 +1,9 @@
+C:\Users\cpfis\source\repos\SillySentenceGenerator\obj\Debug\SillySentenceGenerator.csproj.AssemblyReference.cache
+C:\Users\cpfis\source\repos\SillySentenceGenerator\obj\Debug\SillySentenceGenerator.Properties.Resources.resources
+C:\Users\cpfis\source\repos\SillySentenceGenerator\obj\Debug\SillySentenceGenerator.csproj.GenerateResource.cache
+C:\Users\cpfis\source\repos\SillySentenceGenerator\obj\Debug\SillySentenceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\cpfis\source\repos\SillySentenceGenerator\bin\Debug\SillySentenceGenerator.exe.config
+C:\Users\cpfis\source\repos\SillySentenceGenerator\bin\Debug\SillySentenceGenerator.exe
+C:\Users\cpfis\source\repos\SillySentenceGenerator\bin\Debug\SillySentenceGenerator.pdb
+C:\Users\cpfis\source\repos\SillySentenceGenerator\obj\Debug\SillySentenceGenerator.exe
+C:\Users\cpfis\source\repos\SillySentenceGenerator\obj\Debug\SillySentenceGenerator.pdb
